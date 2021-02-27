@@ -5,8 +5,14 @@
 // the compiled file.
 //
 
-//= require bootstrap-sass/assets/javascripts/bootstrap-sprockets
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
+
+
+// require turbolinks
+
+
+//= require Chart.bundle
+//= require chartkick
 //= require_tree .
