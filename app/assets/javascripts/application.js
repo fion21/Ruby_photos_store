@@ -5,14 +5,10 @@
 // the compiled file.
 //
 
+
+//= require rails-ujs
 //= require jquery
-//= require jquery_ujs
 //= require twitter/bootstrap
-
-
-// require turbolinks
-
-
-//= require Chart.bundle
-//= require chartkick
+//= require turbolinks
 //= require_tree .
+
