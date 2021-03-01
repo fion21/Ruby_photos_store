@@ -1,24 +1,9 @@
-# README
+# Ruby Full Stack App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app uses some of the generator functions to speed up crud, database, authentication with devise.
 
-Things you may want to cover:
 
-* Ruby version
+ ![](https://github.com/fion21/Ruby_photos_store/blob/main/homepage.png?raw=true)
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
